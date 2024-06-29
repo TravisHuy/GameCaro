@@ -1,4 +1,4 @@
-package com.nhathuy.gamecaro
+package com.nhathuy.gamecaro.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
