@@ -7,7 +7,7 @@ data class GameState(
         }},
     val currentPlayer: Char ='X',
     val winner: Char ? =null,
-    val gameMode: GameMode= GameMode.PVP,
+    val gameMode: GameMode= GameMode.MENU,
     val player1Name: String ="Player 1",
     val player2Name: String ="Player 2"
 )
